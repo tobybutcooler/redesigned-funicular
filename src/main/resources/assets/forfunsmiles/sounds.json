@@ -1,0 +1,12 @@
+{
+  "revenge": {
+    "category": "music",
+    "subtitle": "subtitles.revenge",
+    "sounds": [
+      {
+        "name": "forfunsmiles:revenge_-a-minecraft-parody-of-usher_s-dj-got-us-fallin_-in-love-_music-video_",
+        "stream": true
+      }
+    ]
+  }
+}

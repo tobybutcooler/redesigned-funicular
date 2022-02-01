@@ -1,0 +1,25 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "revenge",
+    "name": "Creeper.ogg",
+    "description": "Aww man.",
+    "creativeTab": {
+      "value": "CUSTOM:Funsies"
+    },
+    "music": {
+      "value": "CUSTOM:revenge"
+    },
+    "specialInfo": [
+      "A song to play when you're back in the mine."
+    ],
+    "hasGlow": true,
+    "onRightClickedInAir": {
+      "name": "SideToSideRightClickedInAir"
+    },
+    "onCrafted": {
+      "name": "SideToSideItemIsCraftedsmelted"
+    }
+  }
+}

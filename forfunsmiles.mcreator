@@ -1,0 +1,101 @@
+{
+  "mod_elements": [
+    {
+      "name": "Funsies",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "funsies"
+    },
+    {
+      "name": "SideToSideRightClickedInAir",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "side_to_side_right_clicked_in_air",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "SideToSideItemIsCraftedsmelted",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "side_to_side_item_is_craftedsmelted",
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "SideToSide",
+      "type": "musicdisc",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "side_to_side"
+    },
+    {
+      "name": "Woodntshovel",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodntshovel"
+    },
+    {
+      "name": "Woodntshovelrecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "woodntshovelrecipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "revenge",
+      "files": [
+        "revenge_-a-minecraft-parody-of-usher_s-dj-got-us-fallin_-in-love-_music-video_"
+      ],
+      "category": "music",
+      "subtitle": "Creeper? Aww, man."
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.forfunsmiles.side_to_side": "Creeper.ogg",
+      "itemGroup.tabfunsies": "Happiness and Joy",
+      "subtitles.revenge": "Creeper? Aww, man.",
+      "item.forfunsmiles.woodntshovel": "Woodn\u0027t Shovel",
+      "item.forfunsmiles.side_to_side.desc": "Aww man."
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "forfunsmiles",
+    "modName": "ForFunSmiles",
+    "version": "1.0.0",
+    "author": "Poyo",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.forfunsmiles",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}

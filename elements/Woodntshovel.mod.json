@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "woodntshovel",
+    "customModelName": "Normal",
+    "name": "Woodn't Shovel",
+    "specialInfo": [
+      "You're grabbing it from the wrong end!"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Funsies"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 0,
+    "efficiency": 0.0,
+    "attackSpeed": 8.0,
+    "enchantability": 0,
+    "damageVsEntity": 0.5,
+    "usageCount": 1,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
